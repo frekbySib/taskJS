@@ -1,0 +1,31 @@
+{
+  "name": "taskjs",
+  "version": "1.0.0",
+  "description": "Тестовые задачки",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frekbySib/taskJS.git"
+  },
+  "keywords": [
+    "tasks",
+    "hexlet"
+  ],
+  "author": "Akulinsky Petr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frekbySib/taskJS/issues"
+  },
+  "homepage": "https://github.com/frekbySib/taskJS#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.17.0"
+  }
+}
